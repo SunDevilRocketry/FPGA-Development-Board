@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Engine-Controller-Sym")(type "KiCad")(uri "D:/Avionics Document/Liquid-Engine-Controller-main/lib/Engine-Controller.kicad_sym")(options "")(descr ""))
+  (lib (name "Engine-Controller")(type "Legacy")(uri "D:/Avionics Document/Liquid-Engine-Controller-main/lib/Engine-Controller.lib")(options "")(descr ""))
+  (lib (name "Flight-Computer-Sym")(type "KiCad")(uri "D:/Avionics Document/Flight-Computer-main/Flight-Computer-main/lib/Flight-Computer.kicad_sym")(options "")(descr ""))
+  (lib (name "Flight-Computer")(type "Legacy")(uri "D:/Avionics Document/Flight-Computer-main/Flight-Computer-main/lib/Flight-Computer.lib")(options "")(descr ""))
+)
