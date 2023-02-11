@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name "FPGA-devBoard")(type "KiCad")(uri "D:/Avionics Document/AvionicDocs/lib/FPGA-devBoard.kicad_sym")(options "")(descr ""))
-  (lib (name "Flight-Computer")(type "KiCad")(uri "D:/Avionics Document/Flight-Computer-main/Flight-Computer-main/lib/Flight-Computer.kicad_sym")(options "")(descr ""))
+  (lib (name "FPGA-devBoard")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/FPGA-Development-Board/lib/FPGA-devBoard.kicad_sym")(options "")(descr ""))
+  (lib (name "Flight-Computer")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/Flight-Computer/lib/Flight-Computer.kicad_sym")(options "")(descr ""))
 )
