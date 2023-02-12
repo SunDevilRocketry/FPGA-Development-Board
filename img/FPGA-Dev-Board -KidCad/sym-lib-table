@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "Flight-Computer")(type "KiCad")(uri "D:/Avionics Document/Flight-Computer-main/Flight-Computer-main/lib/Flight-Computer.kicad_sym")(options "")(descr ""))
+  (lib (name "Engine-Controller")(type "KiCad")(uri "D:/Avionics Document/Liquid-Engine-Controller-main/lib/Engine-Controller.kicad_sym")(options "")(descr ""))
+  (lib (name "C0603C104J4RACTU")(type "Legacy")(uri "D:/Avionics Document/KiCAD/2023-02-12_04-23-47/C0603C104J4RACTU.lib")(options "")(descr ""))
+  (lib (name "FPGA-devBoard")(type "KiCad")(uri "D:/Avionics Document/FPGA-Development-Board/lib/FPGA-devBoard.kicad_sym")(options "")(descr ""))
+  (lib (name "MCT06030C2400FP500")(type "Legacy")(uri "D:/Avionics Document/MCT06030C2400FP500.lib")(options "")(descr ""))
+  (lib (name "CL10A225KO8NNNC")(type "KiCad")(uri "D:/Avionics Document/KiCAD/2023-02-12_04-52-56/CL10A225KO8NNNC.kicad_sym")(options "")(descr ""))
+)
